@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oceanvoicetv-del.github.io/dbseo/sitemap.xml
